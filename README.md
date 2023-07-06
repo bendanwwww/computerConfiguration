@@ -1,1 +1,1 @@
-# computerConfiguration
+这是一个个人主机设计和配置清单
