@@ -1,6 +1,6 @@
 ## 黑金风格的金字塔机箱
 ### 效果图
-<img src="https://github.com/bendanwwww/nft-image-cat/blob/main/wiki/1.png" width="430"> <br />
+<img src="" width="430"> <br />
 ### 配置清单
 | 配置项  | 配置型号 |  购买链接 |
 | ------------- | ------------- | ------------- |
